@@ -1,0 +1,13 @@
+__pycache__/
+.DS_Store
+.ipynb_checkpoints
+.idea
+build
+pycache
+.DS_Store
+.pytest_cache
+.mypy_cache
+.cache
+epoch_*
+*.py[cod]
+*PARAMS*
